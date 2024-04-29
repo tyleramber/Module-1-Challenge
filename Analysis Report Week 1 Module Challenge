@@ -1,14 +1,1 @@
-•	Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns? 
-1.	57% of the campaigns were successful. 
-2.	Plays were the most successful but it also failed the most.
-3.	The most successful month was July, while the least was in January
-•	What are some limitations of this dataset?
-1.	The dates are from a couple years ago and they are also over a 9-10 year span. This data is outdated. 
-2.	The currency isn’t the same. 
-3.	The launch date and deadline timelines are not consistent across the categories. 
-•	What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-We could have done a box and whisker chart. This would provide outliers that would help make it’s easier to identify visually. They would also benefit because we compared data between different categories.
-
-•	Use your data to determine whether the mean or the median better summarizes the data.
-I believe mean would be best in this data set because it shows you on avg based on each outcome whether it was successful or not. In addition, it’s a big data set so mean is better than median. Median is better for smaller data sets. 
